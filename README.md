@@ -1,2 +1,2 @@
-# barbershop
+# BarberShop
 try ruby sinatra bootstrap
